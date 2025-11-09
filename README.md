@@ -209,9 +209,6 @@ This project demonstrates:
 
 **Eshan** - Computer Science & AI Student  
 University of Georgia | Class of 2027
-
-*Built for CSCI 2720 - Data Structures*
-
 ---
 
 **For Recruiters**: Demonstrates strong foundations in algorithm design, mathematical complexity analysis, generic programming, and problem-solving. The Master Theorem proofs and advanced tree operations showcase theoretical CS knowledge applicable to optimizing production systems.
